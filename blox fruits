@@ -1,0 +1,36 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+
+local Window = Library.CreateLib("i'll Pass", "DarkTheme")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Tab = Window:NewTab("i'll Pass")
+local Section = Tab:NewSection("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+Section:NewLabel("i'll Pass")
+
+function typepass()
+game:service'StarterGui':SetCore("SendNotification", {
+        Title = "i'll Pass";
+        Text = "> i'll Pass <";
+    })
+end
+
+
+while wait do
+    wait()
+    typepass()
+end 
